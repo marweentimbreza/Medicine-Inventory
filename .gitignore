@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+/Notes/
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+workspace.xml
+
+# Ignore temporary and test files
+/shelf/
+/logs/
+/test/
+/*test
+
